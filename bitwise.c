@@ -13,4 +13,6 @@ void main()
 	printf("a << b = %d\n",ans);
 	ans=a>> b;
 	printf("a >> b = %d\n",ans);
+	ans=~a;
+	printf("~ a = %d",ans);
 }
