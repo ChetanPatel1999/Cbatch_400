@@ -1,0 +1,1 @@
+printf("size of in ptr :%d\n",sizeof(ptr));
