@@ -7,7 +7,7 @@ void main()
  printf("enter size of dayanamic arrry : ");
  scanf("%d",&n);
  int *temp;
- int *ptr=(int*)malloc(n*sizeof(int));
+ int *ptr=(int*)calloc(n,sizeof(int));
  temp=ptr;
  printf("enter array element :");
  for(i=0;i<n;i++)
@@ -23,6 +23,6 @@ void main()
     ptr++;
  }
  ptr=temp;
- free(ptr);
+ free(ptr);//after free memory of any pointer pinter become dangling ponter 
    
 }
