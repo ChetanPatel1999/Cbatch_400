@@ -1,0 +1,10 @@
+
+factrorial of 1 = 1
+factrorial of 2 = 2
+factrorial of 3 = 6
+factrorial of 4 = 24
+factrorial of 5 = 120
+factrorial of 6 = 720
+factrorial of 7 = 5040
+factrorial of 8 = 40320
+factrorial of 9 = 362880
