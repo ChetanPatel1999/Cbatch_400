@@ -1,2 +1,1 @@
-this is my frist sentence
-this is my second sentence
+this sentence write in file using fputs fuction
